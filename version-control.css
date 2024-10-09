@@ -19,10 +19,9 @@ padding: 24px;
 .header__page-title{
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 4rem;
+    font-size: 5rem;
 text-align: center;
 color: aquamarine;
-
 }
 
 .git-commands{
